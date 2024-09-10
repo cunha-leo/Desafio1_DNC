@@ -70,7 +70,7 @@ Na segunda versão, fui além do proposto pela DNC. Não me limitei apenas ao mo
 
 **Imagens da Segunda Versão**:
 
-- Acesse o Dashboard 1º Versão: <strong><a href="https://app.powerbi.com/view?r=eyJrIjoiODc0MTU4YWQtYWUwZS00MDVmLWI3OTctOGFjYWJkMGJhZDk5IiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=723cced0010020015803">Clique aqui!</strong></a>
+- Acesse o Dashboard 2º Versão: <strong><a href="https://app.powerbi.com/view?r=eyJrIjoiODc0MTU4YWQtYWUwZS00MDVmLWI3OTctOGFjYWJkMGJhZDk5IiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=723cced0010020015803">Clique aqui!</strong></a>
 ![Dashboard Versão 1](./asset/base/img/vendasV2.png)
 ![Dashboard Versão 1](./asset/base/img/compraV2.png)
 
