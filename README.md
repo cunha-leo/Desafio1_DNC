@@ -1,4 +1,4 @@
-# Desafio de Previsão de Vendas em E-commerce com Power BI
+# Desafio de Previsão de Vendas com Power BI
 
 ## Descrição Geral
 
@@ -97,6 +97,13 @@ As análises realizadas neste desafio ajudaram a entender melhor o comportamento
 Na **primeira versão**, o objetivo foi cumprir o desafio proposto de maneira funcional, com as métricas e gráficos solicitados.
 
 Na **segunda versão**, busquei ir além do básico, criando um dashboard que é não só funcional, mas visualmente atrativo e interativo, refletindo um cenário mais real e profissional.
+
+## Contato
+Para mais informações, entre em contato:
+
+- **Nome:** Leonardo Alves da Cunha
+- **Email:** leonardoallves1992@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/leo-cunha-allves/ 
 
 ## Licença
 
