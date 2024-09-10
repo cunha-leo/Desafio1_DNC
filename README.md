@@ -55,6 +55,7 @@ A primeira versão do dashboard foi criada seguindo exatamente o que foi propost
 
 **Imagens da Primeira Versão**:
 - Acesse o Dashboard 1º Versão: <strong><a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMzM4OTctNmIxNi00MGUyLWJhM2QtNzcyOGNlYmU5MDYxIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=43ce07e459c179a20992">Clique aqui!</strong></a>
+
 ![Dashboard Versão 1](./asset/base/img/vendasV1.png)
 ![Dashboard Versão 1](./asset/base/img/compraV1.png)
 
@@ -71,6 +72,7 @@ Na segunda versão, fui além do proposto pela DNC. Não me limitei apenas ao mo
 **Imagens da Segunda Versão**:
 
 - Acesse o Dashboard 1º Versão: <strong><a href="https://app.powerbi.com/view?r=eyJrIjoiODc0MTU4YWQtYWUwZS00MDVmLWI3OTctOGFjYWJkMGJhZDk5IiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=723cced0010020015803">Clique aqui!</strong></a>
+
 ![Dashboard Versão 1](./asset/base/img/vendasV2.png)
 ![Dashboard Versão 1](./asset/base/img/compraV2.png)
 
