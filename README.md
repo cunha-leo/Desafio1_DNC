@@ -55,7 +55,7 @@ A primeira versão do dashboard foi criada seguindo exatamente o que foi propost
 
 **Imagens da Primeira Versão**:
 - Acesse o Dashboard 1º Versão: <strong><a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMzM4OTctNmIxNi00MGUyLWJhM2QtNzcyOGNlYmU5MDYxIiwidCI6IjI2ZGY0NTFkLWUwMGQtNGJjMC04OGY5LTExMGFkZDVlZDc5OSJ9&pageName=43ce07e459c179a20992">Clique aqui!</strong></a>
-![Dashboard Versão 1](./asset/base/img/vendasV1.png)
+![Dashboard Versão 1](./asset/base/img/vendaV1.png)
 ![Dashboard Versão 1](./asset/base/img/compraV1.png)
 
 ### Características da Versão 1
